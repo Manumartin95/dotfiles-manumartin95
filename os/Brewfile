@@ -150,3 +150,5 @@ cask "maccy"
 brew "nvm"
 cask "google-drive-file-stream"
 brew "z"
+
+brew "the-unarchiver"
